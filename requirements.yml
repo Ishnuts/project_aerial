@@ -1,0 +1,14 @@
+name: torch
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - torchvision
+  - torchaudio
+  - pytorch
+  - ipykernel
+  - pyyaml
+  - matplotlib
+  - pandas
+  - scipy
+  - scikit-learn
